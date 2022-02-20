@@ -18,8 +18,8 @@ class PortofolioController extends Controller
     	return view("portofolio.about");
     }
 
-    public function service(){
-    	return view("portofolio.service");
+    public function project(){
+    	return view("portofolio.project");
     }
 
     public function contact(){

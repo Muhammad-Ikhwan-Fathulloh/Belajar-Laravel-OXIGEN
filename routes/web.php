@@ -22,6 +22,6 @@ use App\Http\Controllers\PortofolioController;
 
 Route::get('/', [PortofolioController::class, 'home']);
 Route::get('/about', [PortofolioController::class, 'about']);
-Route::get('/service', [PortofolioController::class, 'service']);
+Route::get('/project', [PortofolioController::class, 'project']);
 Route::get('/contact', [PortofolioController::class, 'contact']);
 

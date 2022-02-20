@@ -27,7 +27,7 @@
         <a class="nav-link" href="/about">About <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="/service">Service <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="/project">Project <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="/contact">Contact <span class="sr-only">(current)</span></a>
